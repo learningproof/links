@@ -1,7 +1,6 @@
 path: './'
 http:
   address: ':80'
-  basePath: '/example'
 urls:
   a0: https://hackmd.io/ByVt9CthSPWLOIdiH4vcrA?edit
   a1: https://hackmd.io/89pKVHEGQxOzh3TbOtEfEw?edit
