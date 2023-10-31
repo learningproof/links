@@ -1,0 +1,9 @@
+path: './output'
+http:
+  address: ':80'
+  basePath: '/example'
+urls:
+  google: https://google.com
+  tools:
+    github: https://github.com
+disableMetaFetch: false
